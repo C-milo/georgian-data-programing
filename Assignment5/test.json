@@ -1,0 +1,477 @@
+[
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2019-06-12T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 35777,
+        "fileType": "image/png",
+        "binId": "GAtWFCA7gyksBsYnN8nF8Q",
+        "fileName": "LM 2019_Nov Launch_Kiinalik_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_Kiinalik_th_GAtWFCA7gyksBsYnN8nF8Q.png"
+      },
+      "orgAddress": "180 Shaw Street",
+      "terms": "agree",
+      "endDate": "2019-06-16T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "presentedby",
+      "eventWebsite": "https://luminatofestival.com/2019/Events/Kiinalik",
+      "orgPhone": "4163684849",
+      "eventEmail": "info@luminato.com",
+      "locations": [
+        {
+          "id": "81ce1c41-db5d-1f1b-bab2-8fdd11e8c9e9",
+          "coords": {
+            "lng": -79.36402369999996,
+            "lat": 43.6504628
+          },
+          "$$hashKey": "object:18606",
+          "address": "26 Berkeley St, Toronto, ON M5A 2W3, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Berkeley Street Theatre",
+          "type": "marker"
+        }
+      ],
+      "dates": [
+        {
+          "startDateTime": "2019-06-12T23:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-13T23:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-14T23:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-15T23:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-16T17:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-16T23:00:00.000Z"
+        }
+      ],
+      "description": "The 2018 Dora Award winning production brings together two powerful storytellers as they map new territory, giving voice to the histories, cultures, and climate we&#8217;ve all inherited.&#10;&#10;Inuk artist Laakkuluk Williamson Bathory and queer theatre-maker Evalyn Parry met on an Arctic expedition from Iqaluit to Greenland. Now they share the stage in Kiinalik: These Sharp Tools; a concert, dialogue, and symbolic convergence between the North and the South of our country. These two powerful storytellers map new territory together in a work that gives voice and body to the lived histories, culture, and climate we have inherited, and then asks how we reckon with these sharp tools.",
+      "orgEmail": "info@luminato.com",
+      "features": {
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Music,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "admissionType": "Rng",
+      "partnerName": "Buddies in Bad Times Theatre and Luminato Festival",
+      "subsetCalendarString": "",
+      "theme": [
+        {
+          "name": ""
+        }
+      ],
+      "image": {
+        "fileSize": 382164,
+        "fileType": "image/jpeg",
+        "binId": "d4KGDVrFxLOBEM6SBSiJ3A",
+        "fileName": "LM 2019_Nov Launch_Kiinalik.jpg",
+        "altText": "Evalyn Parry and Laakkuluk Williamson Bathory in Kiinalik: These Sharp Tools",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_Kiinalik_d4KGDVrFxLOBEM6SBSiJ3A.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "XYIlSeN1PhWk2VRPcLcjDg",
+      "orgName": "Luminato Festival",
+      "cost": {
+        "to": 50,
+        "from": 30
+      },
+      "eventPhone": "4163684849",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "shortDescription": "The 2018 Dora Award winning production brings together two powerful storytellers as they map new territory, giving voice to the histories, cultures, and climate we&#8217;ve all inherited.",
+      "admin": {
+        "reviewerComments": "VH 18/11/10",
+        "updateTimestamp": "2018-11-10T19:04:52.685Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": false,
+        "approvedTimestamp": "2018-11-10T19:04:52.685Z",
+        "subsetCalendar": [],
+        "approvedBy": "vhortig",
+        "updatedBy": "vhortig"
+      },
+      "contactName": "Luminato Events",
+      "reservation": {
+        "phone": "4163684849",
+        "website": "https://luminatofestival.com/2019/Events/Kiinalik#",
+        "email": "info@luminato.com"
+      },
+      "freeEvent": "No",
+      "eventName": "Kiinalik: These Sharp Tools at Luminato"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2019-06-09T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 37901,
+        "fileType": "image/png",
+        "binId": "rD3j-NNLgYz_30EEfBS3Bw",
+        "fileName": "LM 2019_Nov Launch_Masquerade_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_Masquerade_th_rD3j-NNLgYz_30EEfBS3Bw.png"
+      },
+      "orgAddress": "180 Shaw Street",
+      "terms": "agree",
+      "endDate": "2019-06-10T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "presentedby",
+      "eventWebsite": "https://luminatofestival.com/2019/Events/Masquerade",
+      "orgPhone": "4163684849",
+      "locations": [
+        {
+          "id": "8e1e72d3-89d0-962a-05c2-3ee8903ca9fc",
+          "coords": {
+            "lng": -79.38678920000001,
+            "lat": 43.6438286
+          },
+          "$$hashKey": "object:7158",
+          "address": "255 Front St W, Toronto, ON M5V 2W6, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "John W.H. Bassett Theatre",
+          "type": "marker"
+        }
+      ],
+      "dates": [
+        {
+          "startDateTime": "2019-06-09T23:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-10T23:00:00.000Z"
+        }
+      ],
+      "eventEmail": "info@luminato.com",
+      "description": "One of Moscow&#8217;s oldest theatre companies returns to Toronto with a show that will sweep you off your feet and into a storm of intrigue, hidden truths, and heaps of snow.&#10;&#10;Based on the writings of Mikhail Lermontov, one of Russia&#8217;s most important 19th century poets, the tragi-farce Masquerade uncovers the real moralities of modern society behind the masks that everyone wears. Discover scandalous love affairs and squandered opportunities; exposed lies, truths, and the words that can kill. Literally.",
+      "orgEmail": "info@luminato.com",
+      "categoryString": "Live Performances,Music,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "admissionType": "Rng",
+      "partnerName": "Luminato and Show One Productions.",
+      "subsetCalendarString": "",
+      "theme": [],
+      "image": {
+        "fileSize": 492476,
+        "fileType": "image/jpeg",
+        "binId": "xU8daGpDWCogQPozNU_qBA",
+        "fileName": "LM 2019_Nov Launch_Masquerade.jpg",
+        "altText": "The company of Masquerade",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_Masquerade_xU8daGpDWCogQPozNU_qBA.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "SdFwaNJO0X7gY_KTFDx0Dw",
+      "orgName": "Luminato Festival",
+      "cost": {
+        "to": 162,
+        "from": 72
+      },
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "eventPhone": "4163684849",
+      "shortDescription": "Based on the writings of Mikhail Lermontov, one of Russia&#8217;s most important 19th century poets, the tragi-farce Masquerade will sweep you off your feet and into a storm of intrigue, hidden truths, and heaps of snow.",
+      "admin": {
+        "reviewerComments": "VH 18/11/10",
+        "updateTimestamp": "2018-11-10T18:50:46.811Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": false,
+        "approvedTimestamp": "2018-11-10T18:50:46.813Z",
+        "subsetCalendar": [],
+        "approvedBy": "vhortig",
+        "updatedBy": "vhortig"
+      },
+      "contactName": "Luminato Events",
+      "reservation": {
+        "phone": "4163684849",
+        "website": "https://luminatofestival.com/2019/Events/Masquerade#",
+        "email": "info@luminato.com"
+      },
+      "freeEvent": "No",
+      "eventName": "Masquerade at Luminato"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2019-09-02T04:00:00.000Z",
+      "eventPhoneExt": "223",
+      "thumbImage": {
+        "fileSize": 60217,
+        "fileType": "image/png",
+        "binId": "SFul1AmeqzCprcP7MxjNRw",
+        "fileName": "penrose trio photo_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/penrose trio photo_th_SFul1AmeqzCprcP7MxjNRw.png"
+      },
+      "timeInfo": "",
+      "startDateTime": "2019-09-02T16:15:00.000Z",
+      "orgAddress": "10 Trinity Square, Toronto, ON M5G 1B1",
+      "terms": "agree",
+      "contactTitle": "Artistic Director",
+      "endDate": "2019-09-02T04:00:00.000Z",
+      "frequency": "once",
+      "orgPhoneExt": "223",
+      "partnerType": "supportedby",
+      "eventWebsite": "http://www.musicmondays.ca",
+      "orgPhone": "4165984521",
+      "dates": [
+        {
+          "startDateTime": "2019-09-02T16:15:00.000Z",
+          "endDateTime": "2019-09-02T17:00:00.000Z"
+        }
+      ],
+      "locations": [
+        {
+          "id": "afa4fa3e-131f-3adf-f647-954bf597853e",
+          "coords": {
+            "lng": -79.38151820000002,
+            "lat": 43.6545597
+          },
+          "$$hashKey": "object:30623",
+          "address": "19 Trinity Square, Toronto, ON M5G 1B1, Canada",
+          "geoCoded": true,
+          "displayAddress": "Beside the Eaton Centre",
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Church of the Holy Trinity",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@musicmondays.ca",
+      "description": "Welcome to the 28th season of our lunchtime concert series at the Church of the Holy Trinity! Music Mondays has served as a launching pad for emerging talent since its inception in 1992, featuring an eclectic mix of everything from classical solo and chamber music to jazz, fusion and world music. Our goal is to provide the highest possible musical experience to a pay-what-you-can downtown Toronto audience.&#10;&#10;Penrose Trio was formed in 2016 by three friends, pianist Emily Rho, violinist Aaron Schwebel, and cellist Britton Riley. Aaron is the Associate Concertmaster of the Canadian Opera Company and Concertmaster of the National Ballet Orchestra, Britton is a member of the Toronto Symphony Orchestra and Artistic Director of Chamber Music @ New Park, and Emily is a co-director of Pocket Concerts and a faculty member at The Royal Conservatory of Music. Their program will include Brahms' Piano Trio in B Major, Op. 8.  Come celebrate Labour Day with the Penrose Trio!",
+      "orgEmail": "info@musicmondays.ca",
+      "otherCostInfo": "Donations welcome",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Music",
+      "themeString": "",
+      "accessibility": "full",
+      "isWidgetEvent": false,
+      "partnerName": "Toronto Arts Council, Steinway Piano Gallery, Toronto and Downtown-Yonge BIA",
+      "subsetCalendarString": "",
+      "theme": [],
+      "image": {
+        "fileSize": 91310,
+        "fileType": "image/jpeg",
+        "binId": "Qda4I7fSxxF6f7sVKJ4wNA",
+        "fileName": "penrose trio photo.jpg",
+        "altText": "Penrose Trio",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/penrose trio photo_Qda4I7fSxxF6f7sVKJ4wNA.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "QVKHkgptBFnZzgIYHcBMGQ",
+      "orgName": "Music Mondays Community Series",
+      "endDateTime": "2019-09-02T17:00:00.000Z",
+      "expectedAvg": 150,
+      "eventPhone": "4165984521",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Music"
+        }
+      ],
+      "admin": {
+        "reviewerComments": "NF 04/16/19 VH 19/04/19",
+        "updateTimestamp": "2019-04-19T19:58:58.738Z",
+        "newsletterCategory": [],
+        "includeInNewsletter": false,
+        "newsletterSubcategory": [],
+        "featuredEvent": false,
+        "approvedTimestamp": "2019-04-19T19:58:58.738Z",
+        "subsetCalendar": [],
+        "approvedBy": "vhortig",
+        "updatedBy": "vhortig"
+      },
+      "contactName": "Ian Grundy",
+      "freeEvent": "Yes",
+      "eventName": "Music Mondays - Penrose Trio"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2019-06-07T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 35090,
+        "fileType": "image/png",
+        "binId": "Idf9gBP0c8e62Em2imh9sw",
+        "fileName": "LM 2019_Nov Launch_The Full Light of Day_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_The Full Light of Day_th_Idf9gBP0c8e62Em2imh9sw.png"
+      },
+      "orgAddress": "180 Shaw Street",
+      "terms": "agree",
+      "endDate": "2019-06-13T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "presentedby",
+      "eventWebsite": "https://luminatofestival.com/2019/Events/Full-Light-Of-Day",
+      "orgPhone": "4163684849",
+      "eventEmail": "info@luminato.com",
+      "locations": [
+        {
+          "id": "fd8eabeb-e1b1-2b67-8331-e8c12408e013",
+          "coords": {
+            "lng": -79.37515400000001,
+            "lat": 43.64739100000001
+          },
+          "$$hashKey": "object:8150",
+          "address": "27 Front St E, Toronto, ON M5E 1B4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Bluma Appel Theatre",
+          "type": "marker"
+        }
+      ],
+      "dates": [
+        {
+          "startDateTime": "2019-06-08T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-08T18:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-09T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-09T18:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-12T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-12T17:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-13T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2019-06-14T00:00:00.000Z"
+        }
+      ],
+      "description": "From award-winning artists Daniel Brooks and Kim Collier comes a provocative film theatre hybrid about an aging matriarch who must contend with her family&#8217;s corrupt legacy before she dies.&#10;&#10;Part theatre, part film, The Full Light of Day tells the story of Mary, the aging matriarch of a wealthy Canadian family. As the end of her life draws near, Mary refuses to continue to turn a blind eye towards the misdeeds that helped her family amass their great wealth.  The story reflects on the tough moral choices facing Canadians today and forces the audience to confront the systematic corruption and ethical paradoxes that underline most of modern day society. Does our ignorance also make us complicit?",
+      "orgEmail": "info@luminato.com",
+      "features": {
+        "Public Washrooms": true
+      },
+      "categoryString": "Film,Live Performances,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "admissionType": "Rng",
+      "partnerName": "Luminato and Canadian Stage",
+      "subsetCalendarString": "",
+      "theme": [],
+      "image": {
+        "fileSize": 353651,
+        "fileType": "image/jpeg",
+        "binId": "_GRDuQivrYgVZDSVvi8HHg",
+        "fileName": "LM 2019_Nov Launch_The Full Light of Day.jpg",
+        "altText": "The company of The Full Light of Day",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/LM 2019_Nov Launch_The Full Light of Day__GRDuQivrYgVZDSVvi8HHg.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "G6TD_zHSsx6rofaNd2XJsg",
+      "orgName": "Luminato Festival",
+      "cost": {
+        "to": 111,
+        "from": 30
+      },
+      "eventPhone": "4163684849",
+      "category": [
+        {
+          "name": "Film"
+        },
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "shortDescription": "From award-winning artists Daniel Brooks and Kim Collier comes a provocative film theatre hybrid about an aging matriarch who must contend with her family&#8217;s corrupt legacy before she dies.",
+      "admin": {
+        "reviewerComments": "VH 18/11/10",
+        "updateTimestamp": "2018-11-10T18:53:23.708Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": false,
+        "approvedTimestamp": "2018-11-10T18:53:23.708Z",
+        "subsetCalendar": [],
+        "approvedBy": "vhortig",
+        "updatedBy": "vhortig"
+      },
+      "contactName": "Luminato Events",
+      "reservation": {
+        "phone": "4163684849",
+        "website": "https://luminatofestival.com/2019/Events/Full-Light-Of-Day#",
+        "email": "info@luminato.com"
+      },
+      "freeEvent": "No",
+      "eventName": "The Full Light of Day at Luminato"
+    }
+  }
+]
